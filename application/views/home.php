@@ -50,7 +50,7 @@
             <div class="bs-component">
               <div class="jumbotron">
                 <h1>Welcome</h1>
-                <p>WebRTC memungkinkan semua jenis komunikasi real time (video dan audio) antara pengguna dengan memanfaatkan browser.</p>
+                <p>WebRTC komunikasi real time (video dan audio) antara pengguna dengan memanfaatkan browser.</p>
                 <p><a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#formLogin">Login</a></p>
                 <p>Don't have account? Signup <a href="<?php echo base_url(); ?>signup/">here</a></p>
               </div>
